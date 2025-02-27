@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # Configuración del bot
-TELEGRAM_BOT_TOKEN = '7016586519:AAEru-Fr9SSR4ItDrYMikSkENojqn6i1_08'  # Reemplaza con tu token
+TELEGRAM_BOT_TOKEN = '7686149734:AAGsRd_ijq0Toes5AEkfbQrevmauLkw0DYM'  # Reemplaza con tu token
 API_URL = 'https://smmtigers.com/api/v2'
 API_KEY = '1230580efb3bc04b50b2557d20a2ed6a'  # Reemplaza con tu API key
 ADMIN_CHAT_ID = 5338241603  # Reemplaza con tu ID de admin
